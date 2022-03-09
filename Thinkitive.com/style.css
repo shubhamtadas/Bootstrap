@@ -1,0 +1,22 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+/* .container-fluid{
+  border: 1px solid #D3D3D3;
+} */
+.nav-item a{
+  text-decoration: none;
+}
+.logo img{
+  height: 70px;
+  width: 150px;
+}
+.card{
+  margin: 15px;
+  padding: 20px;
+}
+.video1{
+  margin-right: 35px;
+}
